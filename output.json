@@ -1,0 +1,42 @@
+{
+    "00120": {
+        "street_address": "970 Robson Street",
+        "locality": "Vancouver",
+        "region": "British Columbia",
+        "country": "Canada",
+        "geopoint": {
+            "lat": 49.283026,
+            "long": -123.122826
+        }
+    },
+    "62140": {
+        "street_address": "13 Hartenstraat",
+        "locality": "Amsterdam",
+        "region": "Noord-Holland",
+        "country": "Netherlands",
+        "geopoint": {
+            "lat": 52.372253,
+            "long": 4.886162
+        }
+    },
+    "10224": {
+        "street_address": "1146 Madison Ave",
+        "locality": "New York",
+        "region": "New York",
+        "country": "United States",
+        "geopoint": {
+            "lat": 40.780094,
+            "long": -73.959558
+        }
+    },
+    "10511": {
+        "street_address": "2656 NE University Village St",
+        "locality": "Seattle",
+        "region": "Washington",
+        "country": "United States",
+        "geopoint": {
+            "lat": 47.664027,
+            "long": -122.297896
+        }
+    }
+}
